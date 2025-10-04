@@ -1,0 +1,1 @@
+print("✅ OpenAI library installed successfully!")
