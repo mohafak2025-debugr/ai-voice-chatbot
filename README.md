@@ -1,2 +1,3 @@
-# ai-voice-chatbot
-A Python AI voice chatbot that talks and listens using text-to-speech and speech recognition.
+## 🧠 AI Voice Chatbot  
+### A smart Python assistant that listens, talks, and remembers you.
+This project is open-source and free to use under the **MIT License**.
