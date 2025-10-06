@@ -2,3 +2,4 @@ openai
 pyttsx3
 SpeechRecognition
 pyaudio
+add requirements.txt
